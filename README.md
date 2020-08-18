@@ -6,9 +6,9 @@ Crypto visual is a mobile application...
 ## __Cryptocurrency and Exchanges:__
 
 <div>
-<img src="img/Max-3.png" width="200" height="400">
 <img src="img/Max-1.png" width="200" height="400">
 <img src="img/Max-2.png" width="200" height="400">
+<img src="img/Max-3.png" width="200" height="400">
 </div>
 <div>
 
