@@ -1,6 +1,15 @@
 # <center>__Crypto Visual__ <img src="img/crypto.svg" width="60" height="60"></center>
 <p>
-Crypto visual is a mobile application... 
+  Crypto Visual is a mobile application that allows users to analyze the daily price movements and trading volumes of Cryptocurrency Markets and Exchanges.
+</p>
+<p>
+  Crypto Visual is built using React Native, a popular mobile application framework that creates hybrid applications for both iOS and Android.
+</p>
+<p>
+  Crypto Visual is a full stack application, using React Native components that create a user interface on the Frontend, and REST API calls that query databases on the Backend.
+</p>
+<p>
+  Navigate the Cryptocurrency Markets with the power of Crypto Visual.
 </p>
 
 ## __Cryptocurrency and Exchanges:__
@@ -11,6 +20,14 @@ Crypto visual is a mobile application...
 <img src="img/Max-3.png" width="200" height="400">
 </div>
 <div>
+  </br>
+  <p>
+Create a customizable watchlist of digital coins to track and monitor the price action of different cryptocurrencies.
+  </p>
+  <p>
+Discover the world of 24/7 transactions by analyzing the trading volume of a wide selection of Cryptocurrency Exchanges.
+  </p>
+</div>
 
 
 ## __Markets and News:__
@@ -18,6 +35,16 @@ Crypto visual is a mobile application...
 <div>
 <img src="img/Max-4.png" width="200" height="400">
 <img src="img/Max-5.png" width="200" height="400">
+</div>
+</br>
+
+<div>
+  <p>
+Explore the Foreign Exchange and Commodities Markets to gain valuable insights into the price movements of currency pairs and precious metals.
+  </p>
+  <p>
+Catch up on the latest Cryptocurrency News by reading research articles on the global economic factors driving the world of digital assets.
+  </p>
 </div>
 
 ## __React Native__:
@@ -30,10 +57,11 @@ Crypto visual is a mobile application...
 * $ react-native run-android
 </br>
 
-## __X Code__:
+## __Xcode__:
 
 ### Swift
 <p>
+  The Swift programming language allows Crypto Visual to ...
 </p>
 
 ### iOS Simulators
@@ -45,6 +73,7 @@ Crypto visual is a mobile application...
 
 ### Kotlin
 <p>
+  The Kotlin programming language allows Crypto Visual to ...
 </p>
 
 ### Android Virtual Devices
@@ -55,8 +84,9 @@ Crypto visual is a mobile application...
 
 ## __Downloads:__
 <p>
-</p>
 (Available for iOS and Android)
+</p>
+
 <div>
 <a target="_blank" href="https://apps.apple.com/us/app/crypto-visual/id1527885652">
 <img src="img/App-Store.svg" width="204" height="97.75">
