@@ -58,10 +58,10 @@ Crypto visual is a mobile application...
 </p>
 (Available for iOS and Android)
 <div>
-<a href="https://apps.apple.com/us/app/crypto-visual/id1527885652">
+<a target="_blank" href="https://apps.apple.com/us/app/crypto-visual/id1527885652">
 <img src="img/App-Store.svg" width="204" height="97.75">
 </a>
-<a href="https://play.google.com/store/apps/details?id=com.cryptomobileapp">
+<a target="_blank" href="https://play.google.com/store/apps/details?id=com.cryptomobileapp">
 <img src="img/Google-Play.png" width="249.58" height="96.58">
 </a>
 </div>
