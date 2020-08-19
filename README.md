@@ -80,7 +80,7 @@ Catch up on the latest Cryptocurrency News by reading research articles on the g
 
 ### Kotlin
 <p>
-  Kotlin is a cross-platform, statically typed programming language developed for Android. Kotlin is designed to interoperate fully with Java, and the JVM version of its standard library depends on the Java Class Library. Crypto Visual uses Kotlin to transition from native iOS to React Native through the implementation of splash screens and animations.
+  Kotlin is a cross-platform, statically typed programming language developed for Android. Kotlin is designed to interoperate fully with Java, and the JVM version of its standard library depends on the Java Class Library. Crypto Visual uses Kotlin to transition from native Android to React Native through the implementation of splash screens and animations.
 </p>
 
 ### Android Virtual Devices
