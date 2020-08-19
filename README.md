@@ -20,6 +20,7 @@
 <img src="img/Max-3.png" width="200" height="400">
 </div>
 <div>
+
   </br>
   <p>
 Create a customizable watchlist of digital coins to track and monitor the price action of different cryptocurrencies.
@@ -36,6 +37,7 @@ Discover the world of 24/7 transactions by analyzing the trading volume of a wid
 <img src="img/Max-4.png" width="200" height="400">
 <img src="img/Max-5.png" width="200" height="400">
 </div>
+
 </br>
 
 <div>
@@ -49,6 +51,10 @@ Catch up on the latest Cryptocurrency News by reading research articles on the g
 
 ## __React Native__:
 <p>
+  React Native is an open-source framework for developing iOS and Android mobile applications. React Native allows 
+  developers to use the React along with native platform capabilities to create mobile applications for multiple different mobile operating systems.
+  React Native is a popular framework for developing hybrid mobile applications, allowing developers to use a single codebase in JavaScript for both iOS and  Android. In native mobile applications, developers must maintain two separate codebases, a Swift codebase for iOS and a Kotlin codebase for Android.
+  
 </p>
 
 ### Commands:
@@ -61,24 +67,26 @@ Catch up on the latest Cryptocurrency News by reading research articles on the g
 
 ### Swift
 <p>
-  The Swift programming language allows Crypto Visual to ...
+  Swift is a multi-paradigm, compiled programming language developed for iOS. Swift is designed to work with Apple's Cocoa and Cocoa Touch frameworks. Swift also extends the Objective-C code previously written for iOS devices. Crypto Visual uses Swift to transition from native iOS to React Native through the implementation of splash screens and animations.
 </p>
 
 ### iOS Simulators
-<p>
-</p>
+  * iPhone 11 Pro (13.6)
+  * iPad Pro (11-inch) (13.6)
+  * iPhone SE (13.6)
 </br>
 
 ## __Android Studio:__
 
 ### Kotlin
 <p>
-  The Kotlin programming language allows Crypto Visual to ...
+  Kotlin is a cross-platform, statically typed programming language developed for Android. Kotlin is designed to interoperate fully with Java, and the JVM version of its standard library depends on the Java Class Library. Crypto Visual uses Kotlin to transition from native iOS to React Native through the implementation of splash screens and animations.
 </p>
 
 ### Android Virtual Devices
-<p>
-</p>
+  * Pixel 3A API 30
+  * Pixel C API 30
+  * Nexus 9 API 30
 
 </br>
 
