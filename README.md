@@ -14,11 +14,7 @@
 
 ## __Cryptocurrency and Exchanges:__
 
-<div>
-<img src="img/Max-1.png" width="200" height="400">
-<img src="img/Max-2.png" width="200" height="400">
-<img src="img/Max-3.png" width="200" height="400">
-</div>
+
 <div>
 
   </br>
@@ -32,11 +28,6 @@ Discover the world of 24/7 transactions by analyzing the trading volume of a wid
 
 
 ## __Markets and News:__
-
-<div>
-<img src="img/Max-4.png" width="200" height="400">
-<img src="img/Max-5.png" width="200" height="400">
-</div>
 
 </br>
 
@@ -100,6 +91,6 @@ Catch up on the latest Cryptocurrency News by reading research articles on the g
 <img src="img/App-Store.svg" width="204" height="97.75">
 </a>
 <a target="_blank" href="https://play.google.com/store/apps/details?id=com.cryptomobileapp">
-<img src="img/Google-Play.png" width="249.58" height="96.58">
+<img src="img/Google-Play.svg" width="249.58" height="96.58">
 </a>
 </div>
