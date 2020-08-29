@@ -86,11 +86,13 @@ Catch up on the latest Cryptocurrency News by reading research articles on the g
 (Available for iOS and Android)
 </p>
 
-<div>
+<div align="center">
+
 <a target="_blank" href="https://apps.apple.com/us/app/crypto-visual/id1527885652">
-<img src="img/App-Store.svg" width="204" height="97.75">
+<img src="img/App-Store.svg" width="175" height="82">
 </a>
 <a target="_blank" href="https://play.google.com/store/apps/details?id=com.cryptomobileapp">
-<img src="img/Google-Play.svg" width="249.58" height="96.58">
+<img src="img/Google-Play.svg" width="212.07" height="82.09">
 </a>
+
 </div>
